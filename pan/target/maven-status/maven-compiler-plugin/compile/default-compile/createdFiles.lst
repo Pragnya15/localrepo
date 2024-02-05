@@ -1,0 +1,6 @@
+com\ibm\pan\controller\PanController.class
+com\ibm\pan\PanApplication.class
+com\ibm\pan\repo\PanRepo.class
+com\ibm\pan\entity\Pan.class
+com\ibm\pan\service\PanService.class
+com\ibm\pan\serviceimpl\PanServiceImpl.class
